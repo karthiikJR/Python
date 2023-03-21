@@ -1,3 +1,5 @@
+#A Hangman code with life half the length of the word which chooses a word randomly from a file
+
 import random
 
 #checking if the word is present or not
